@@ -1,2 +1,3 @@
 # ML_Proj_1
-First project
+Parker McGowen and James McKinney
+
